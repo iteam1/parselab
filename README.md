@@ -44,6 +44,18 @@ A simple code editor with integrated debugging functionality. The application su
 - ANTLR4 for Python
 - Custom language grammar files (Lexer and Parser) for ANTLR
 
+### TODO
+
+Here is your updated TODO list with an added "Status" column:
+
+| No | Task Description                                      | Status   |
+|-------------|-------------------------------------------------------|----------|
+| 1           | Enhance highlight syntax feature (Good, Error, Unknown) | Pending  |
+| 2           | Logging errors                                        | Pending  |
+| 3           | Generate grammar                                      | Pending  |
+
+You can update the "Status" column as you progress with each task (e.g., "In Progress", "Completed").
+
 ## Setup
 
 1. Install the necessary Python libraries:
