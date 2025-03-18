@@ -1,4 +1,4 @@
-# ParseLab
+# code-editor
 
 A versatile toolkit for debugging syntax errors, generating grammars
 
