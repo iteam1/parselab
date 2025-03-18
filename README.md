@@ -1,4 +1,4 @@
-# code-editor
+# code-debugger
 
 A versatile toolkit for debugging syntax errors, generating grammars
 
